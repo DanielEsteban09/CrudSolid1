@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\bin\Debug\net7.0\CapaNegocio.deps.json
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\bin\Debug\net7.0\CapaNegocio.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\bin\Debug\net7.0\CapaNegocio.pdb
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\bin\Debug\net7.0\CapaDatos.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\bin\Debug\net7.0\CapaDatos.pdb
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\refint\CapaNegocio.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\CapaNegocio.pdb
+C:\Users\Daniel\Desktop\CrudSolid1\CapaNegocio\obj\Debug\net7.0\ref\CapaNegocio.dll

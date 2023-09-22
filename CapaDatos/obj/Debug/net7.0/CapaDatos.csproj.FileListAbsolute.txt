@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\bin\Debug\net7.0\CapaDatos.deps.json
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\bin\Debug\net7.0\CapaDatos.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\bin\Debug\net7.0\CapaDatos.pdb
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\refint\CapaDatos.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.pdb
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\ref\CapaDatos.dll
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\bin\Debug\net7.0\CapaDatos.runtimeconfig.json
+C:\Users\Daniel\Desktop\CrudSolid1\CapaDatos\obj\Debug\net7.0\CapaDatos.genruntimeconfig.cache
